@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "description": "this is description 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "description": "this is description 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "description": "this is description 3"
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "description": "this is description 4"
+    },
+    {
+      "id": 5,
+      "title": "Post 5",
+      "description": "this is description 5"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "body": "comment 3",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "body": "comment 4",
+      "postId": 1
+    },
+    {
+      "id": 5,
+      "body": "comment 5",
+      "postId": 1
+    }
+  ],
+  "profile": [
+    {
+      "name": "Profile 1"
+    },
+    {
+      "name": "Profile 2"
+    }
+  ]
+}
